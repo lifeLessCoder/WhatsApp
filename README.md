@@ -1,5 +1,6 @@
 # WhatsApp
 A clone of whatsapp! 
 You can compare the original whatsapp with this app!
-![alt text](https://drive.google.com/open?id=1baSSpSH0hl1KFZh0OjbmR4vT06ZBcv7w)
-![alt text](WhatsApp/WhatsApp-MainScreen.jpg)
+
+![whatsapp-mainscreen](https://user-images.githubusercontent.com/33070301/37564360-8e2b5004-2aba-11e8-9567-e859108661d2.jpg)
+
