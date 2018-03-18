@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00695C</color>
+    <color name="colorPrimaryDark">#004D40</color>
+    <color name="colorAccent">#64DD17</color>
+
+    <!-- color for the unselected and selected tabs -->
+    <color name="colorTabUnselected">#4DB6AC</color>
+    <color name="colorTabSelected">@android:color/white</color>
+</resources>

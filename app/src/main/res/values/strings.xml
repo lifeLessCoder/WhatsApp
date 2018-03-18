@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+
+    <!-- Strings for menu items -->
+    <string name="action_search">Search</string>
+    <string name="action_new_group">New group</string>
+    <string name="action_new_broadcast">New broadcast</string>
+    <string name="action_whatsapp_web">WhatsApp Web</string>
+    <string name="action_starred_messages">Starred messages</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings for tab items -->
+    <string name="tab_chats">Chats</string>
+    <string name="tab_status">Status</string>
+    <string name="tab_calls">Calls</string>
+    <string name="tab_camera">Camera</string>
+
+    <!-- strings for chat fragment -->
+    <!-- strings for chat title -->
+    <string name="chat_name_1">Elon Musk</string>
+    <string name="chat_name_2">Goku</string>
+    <string name="chat_name_3">Avengers</string>
+    <string name="chat_name_4">Thor</string>
+    <string name="chat_name_5">Justice League</string>
+    <string name="chat_name_6">Antman</string>
+    <string name="chat_name_7">Thanos</string>
+    <string name="chat_name_8">Spiderman</string>
+    <string name="chat_name_9">Hulk</string>
+    <string name="chat_name_10">Vegeta</string>
+
+    <!-- Strings for text messages -->
+    <string name="chat_text_1">You\'ll be the first one to go to Mars</string>
+    <string name="chat_text_2">Ultra Instinct is fun!</string>
+    <string name="chat_text_3">Iron man:Don\'t worry Thanos will fail!</string>
+    <string name="chat_text_4">Can I have back my Mjölnir?</string>
+    <string name="chat_text_5">Wonder Woman:Let\'s party tonight!</string>
+    <string name="chat_text_6">The World looks really different from here!</string>
+    <string name="chat_text_7">The Avengers shall fall!</string>
+    <string name="chat_text_8">Hey can I have my webshooters back?</string>
+    <string name="chat_text_9">I\'m finding it hard to type!</string>
+    <string name="chat_text_10">Where is Kakarot?</string>
+
+    <!-- Strings for Time -->
+    <string name="chat_time_1">2:15 PM</string>
+    <string name="chat_time_2">1:18 PM</string>
+    <string name="chat_time_3">12:14 PM</string>
+    <string name="chat_time_4">10:13 AM</string>
+    <string name="chat_time_5">10:10 AM</string>
+    <string name="chat_time_6">9:45 AM</string>
+    <string name="chat_time_7">9:27 AM</string>
+    <string name="chat_time_8">8:53 AM</string>
+    <string name="chat_time_9">7:15 AM</string>
+    <string name="chat_time_10">7:05 AM</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
